@@ -1,8 +1,17 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Rising up with Football"
+author: "Hari Narayan"
 date: "2024-08-07"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [release]
+image: "https://www.malayalamfc.com/images/logo.png"
 ---
 
+![](https://wallpaper.forfun.com/fetch/9e/9e88ec8fe92d1d8d9bca17076dbb16f8.jpeg)
+
+We wanted to create a space that truly captures the heart and soul of our club. The new website is more than just a collection of information; it's a platform to celebrate our team, connect with fans, and share the excitement of the beautiful game.
+
+From the latest match updates to player profiles and club news, we've got you covered. We've also made sure the website is super easy to navigate, so you can spend less time searching and more time cheering on your favorite team.
+
+This is just the beginning of our digital journey. We're always looking for ways to improve, so let us know what you think! Your feedback is super valuable to us.
+
+So, what are you waiting for? Head over to hxri-nxrxyxn.github.io/malayalamfc-web and let's celebrate Malayalam FC together!

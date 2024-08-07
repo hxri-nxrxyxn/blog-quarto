@@ -3,10 +3,15 @@ title: "National HSS: A New Chapter Online"
 author: "Hari Narayan"
 date: "22-12-2021"
 categories: [release]
+image: "http://nationalhss.in/img/backgrounds/bg-14.jpg"
+image-width: 20px;
+image-height: 20px;
 ---
 
 
 # Reimagining Our Digital Footprint
+
+![](http://nationalhss.in/img/backgrounds/bg-14.jpg)
 
 I'm thrilled to announce the launch of National Higher Secondary School's new website! It's been a labor of love to transform our online presence into a vibrant, informative, and user-friendly platform.
 
