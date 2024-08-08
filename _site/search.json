@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "B.Tech Computer Science (Second Year) | Saintgits College of Engineering (Autonomous), Kottayam, Kerala\nFull-stack developer with a strong foundation in Go, JavaScript (Svelte), HTML, CSS, and Sass. Proficient in building robust web applications and IoT solutions. Successfully delivered projects for Malayalam FC and National HSS. Eager to contribute to innovative projects and grow as a developer.\nSkills: Linux, Git, Node.js, Vim.\n\n\n\nMalayalam FC, Peringotukara www.malayalamfc.com\nNational Higher Secondary School, Irinjalakuda www.nationalhss.in\n\n\n\n\n\n\n\n\n\n\n\n\nProject\nRepository\nDemo\n\n\n\n\nNational Classic\nhttps://www.github.com/hxri-nxrxyxn/national-web\nhttps://hxri-nxrxyxn.github.io/national-web\n\n\nChinaliya Web\nhttps://www.github.com/hxri-nxrxyxn/chinaliya-web\nhttps://hxri-nxrxyxn.github.io/chinaliya-web\n\n\nKapithan IDRS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-idrs-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-idrs-ui\n\n\nKapithan EFAS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-cet-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-cet-ui\n\n\nIoT MCS\nhttps://www.github.com/hxri-nxrxyxn/sysmc-ui\nhttps://hxri-nxrxyxn.github.io/sysmc-ui\n\n\nMalayalam FC\nhttps://www.github.com/hxri-nxrxyxn/malayalamfc-web-classic\nhttps://hxri-nxrxyxn.github.io/malayalamfc-web-classic"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -40,5 +40,19 @@
     "title": "Rising up with Football",
     "section": "",
     "text": "We wanted to create a space that truly captures the heart and soul of our club. The new website is more than just a collection of information; it’s a platform to celebrate our team, connect with fans, and share the excitement of the beautiful game.\nFrom the latest match updates to player profiles and club news, we’ve got you covered. We’ve also made sure the website is super easy to navigate, so you can spend less time searching and more time cheering on your favorite team.\nThis is just the beginning of our digital journey. We’re always looking for ways to improve, so let us know what you think! Your feedback is super valuable to us.\nSo, what are you waiting for? Head over to hxri-nxrxyxn.github.io/malayalamfc-web and let’s celebrate Malayalam FC together!"
+  },
+  {
+    "objectID": "about.html#highlights",
+    "href": "about.html#highlights",
+    "title": "About Me",
+    "section": "",
+    "text": "Malayalam FC, Peringotukara www.malayalamfc.com\nNational Higher Secondary School, Irinjalakuda www.nationalhss.in"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About Me",
+    "section": "",
+    "text": "Project\nRepository\nDemo\n\n\n\n\nNational Classic\nhttps://www.github.com/hxri-nxrxyxn/national-web\nhttps://hxri-nxrxyxn.github.io/national-web\n\n\nChinaliya Web\nhttps://www.github.com/hxri-nxrxyxn/chinaliya-web\nhttps://hxri-nxrxyxn.github.io/chinaliya-web\n\n\nKapithan IDRS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-idrs-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-idrs-ui\n\n\nKapithan EFAS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-cet-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-cet-ui\n\n\nIoT MCS\nhttps://www.github.com/hxri-nxrxyxn/sysmc-ui\nhttps://hxri-nxrxyxn.github.io/sysmc-ui\n\n\nMalayalam FC\nhttps://www.github.com/hxri-nxrxyxn/malayalamfc-web-classic\nhttps://hxri-nxrxyxn.github.io/malayalamfc-web-classic"
   }
 ]
